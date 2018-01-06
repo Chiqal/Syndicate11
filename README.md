@@ -1,2 +1,1 @@
-# Syndicate11
-LINETCR
+#Syndicate11
